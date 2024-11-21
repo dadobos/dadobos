@@ -2,7 +2,7 @@
 ---
  
 
-##### I am a Software Engineer with DevOps experience that is flexible, proactive, eager to contribute to team success, and a firm believer in the mobile-first approach. Always passionate about learning new things and trying new challenges.
+##### I am a Software Engineer that is flexible, proactive, eager to contribute to team success, and a firm believer in the mobile-first approach. Always passionate about learning new things and trying new challenges.
 
 ---
 
